@@ -125,15 +125,6 @@ http://localhost:8501
 
 ---
 
-## 📌 Future Improvements
-
-* Add more customer features
-* Use advanced models (XGBoost, Random Forest)
-* Connect with live database
-* Add dashboards & BI insights
-
----
-
 ## 👩‍💻 Author
 
 **Priyanka**
