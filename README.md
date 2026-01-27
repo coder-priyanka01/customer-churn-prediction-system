@@ -8,7 +8,7 @@ This project is an **end-to-end Machine Learning application** that predicts whe
 
 Customer churn prediction helps businesses identify customers who are at risk of leaving so they can take preventive actions.
 
-This system:
+This system:-
 
 * Trains a machine learning model on customer data
 * Saves the trained model and scaler using **joblib**
