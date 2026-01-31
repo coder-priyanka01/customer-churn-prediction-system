@@ -71,7 +71,6 @@ The Streamlit app allows users to:
 
 * streamlit
 * numpy
-* joblib
 
 ---
 
