@@ -3,6 +3,7 @@
 This project is an **end-to-end Machine Learning application** that predicts whether a customer is likely to **churn (leave the service)**. It covers the complete ML lifecycle — from data preprocessing and model training to deployment using **Streamlit**.
 
 
+
 ## 🚀 Project Overview
 
 Customer churn prediction helps businesses identify customers who are at risk of leaving so they can take preventive actions.
